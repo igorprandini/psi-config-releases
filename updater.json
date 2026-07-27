@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Versão 0.1.0 do PSI_Config.",
+  "pub_date": "2026-07-26T21:14:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/igorprandini/psi-config-releases/releases/download/v0.1.0/psi-config_0.1.0_x64_pt-BR.msi"
+    }
+  }
+}
