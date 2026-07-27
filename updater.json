@@ -4,8 +4,8 @@
   "pub_date": "2026-07-26T21:14:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/igorprandini/psi-config-releases/releases/download/v0.1.0/psi-config_0.1.0_x64_pt-BR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0xCV2t5dkpCM2J5MDFUMkNHQTNTek4ycDdFYXFaelhacFdqZWg4eGI0b29XZzZUOWg3Z3g0ZFArNFBaNnZMaFNMRFNGVUZiZ1B5dnZiRVFhWkNET1RyOXpFZFdSR1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTgyNzkyCWZpbGU6cHNpX2NvbmZpZ18wLjEuMF94NjRfcHQtQlIubXNpCmpVdk11RUEyRllmMjFzdUZWVkthNGtTU0x5bnRGczkyQUZtZXFSdlpBb0xHczhHcVNINmRyOW1JR3Y4N2o4VTlqblMyekl5K2JOZE9qWFdiQm8rdUNnPT0K",
+      "url": "https://github.com/igorprandini/psi-config-releases/releases/download/v0.1.0/psi_config_0.1.0_x64_pt-BR.msi"
     }
   }
 }
