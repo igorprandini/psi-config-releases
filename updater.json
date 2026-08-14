@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Versão 0.1.5 do PSI_Config.",
-  "pub_date": "2026-08-11T18:20:00Z",
+  "version": "0.1.6",
+  "notes": "Versão 0.1.6 do PSI_Config.",
+  "pub_date": "2026-08-14T18:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0xCV2t5dkpCM1RldHZ1Rk5kRGI5L0NEdGxQbkhFSDMwQ0dnUEtYRVNjejdwL1JSdXhXelB3VndJV3hNWlJaNkk3a3oycjlHYTVILzA0ZnFDNlNya3V1cG92N0JZNUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDcyODk5CWZpbGU6cHNpX2NvbmZpZ18wLjEuNV94NjRfcHQtQlIubXNpCnRUdHlid2JEZ1lwMGFMejNxalRNVm9yODdnYmJkZVR0WGRDL210NjFYOUh3ZUovUXBmYU54NnpJc3p2Y0xYNlhnN0thUnB3SkJBNEh2ZWJIWURvOURnPT0K",
-      "url": "https://github.com/igorprandini/psi-config-releases/releases/download/v0.1.5/psi_config_0.1.5_x64_pt-BR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0xCV2t5dkpCM1czdXVCM1BFdk9VVTZNMytONkVMVGlsSjd2bk9wSlA4K0dBUUYwUkVJbW5tR0hOZmRjREVGZ0UvK0p6VEI2YXZkUWdIRG1DQVRmVGJRTlQxTnFvNHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzMzOTA3CWZpbGU6cHNpX2NvbmZpZ18wLjEuNl94NjRfcHQtQlIubXNpCld1eDFMUmJRRVBjY2hhZ3RZcWV0dVdQMktIaDIzaEtGSnExTGNuMVpPV3JxeEhZc0lvczg0WnBoSG9vSi9oK0I1aXVzSXY1NnZOSWxEUUR4MThYWURRPT0K",
+      "url": "https://github.com/igorprandini/psi-config-releases/releases/download/v0.1.6/psi_config_0.1.6_x64_pt-BR.msi"
     }
   }
 }
